@@ -1,2 +1,3 @@
 # react-app
- Example reactjs application
+
+Simple react application for local CRUD operations
